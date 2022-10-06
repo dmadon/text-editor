@@ -10,6 +10,7 @@
   * [Installation](#installation)
   * [Contributing](#contributing)
   * [License](#license)
+  * [Links](#links)
   * [Questions](#questions)
 
   ## Installation
@@ -21,6 +22,10 @@
   ## License
 
   [MIT License Information](https://opensource.org/licenses/MIT)
+
+  ## Links
+  * View the deployed application: https://text-editor-module-19.herokuapp.com/
+  * View the github repository: https://github.com/dmadon/text-editor
 
   ## Questions
 
