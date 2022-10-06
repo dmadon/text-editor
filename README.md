@@ -12,6 +12,7 @@
   * [License](#license)
   * [Links](#links)
   * [Questions](#questions)
+  * [Preview](#preview)
 
   ## Installation
   Use the deployed application to enter and save your text, or click the install button to continue your work offline.
@@ -31,3 +32,8 @@
 
   * [View my github profile](https://github.com/dmadon)
   * If you have questions about this project, you can email me at deanna.madon@gmail.com
+  
+  ## Preview
+  
+  ![image](https://user-images.githubusercontent.com/99852346/194210288-069d601d-9e00-430f-aaa1-ee6dddcb27d8.png)
+
